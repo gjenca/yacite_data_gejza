@@ -1,0 +1,115 @@
+- authors: ['Ji, Wei', 'Xin, Xiao Long']
+  cites: [JenPul-OCEA]
+  doi: 10.1007/s00500-011-0712-5
+  endpage: 2505
+  issn: 1432-7643
+  journal: Soft Computing
+  month: DEC
+  number: 12, SI
+  startpage: 2501
+  tags: [sci,wos,scopus]
+  title: Torsion elements in effect algebras
+  type: article
+  unique-id: ISI:000297128000015
+  volume: 15
+  year: 2011
+- authors: ['Paseka, Jan', 'Riecanova, Zdenka']
+  cites: [JenPul-OCEA]
+  doi: 10.1007/s00500-010-0561-7
+  endpage: 555
+  issn: 1432-7643
+  journal: Soft Computing
+  month: MAR
+  number: 3, SI
+  startpage: 543
+  tags: [sci,wos,scopus]
+  title: The inheritance of BDE-property in sharply dominating lattice effect algebras
+    and (o)-continuous states
+  type: article
+  unique-id: ISI:000287451000012
+  volume: 15
+  year: 2011
+- article-number: 465306
+  authors: ['Freytes, H.', 'Sergioli, G.', 'Arico, A.']
+  cites: [JenPul-OCEA]
+  doi: 10.1088/1751-8113/43/46/465306
+  issn: 1751-8113
+  journal: Journal of Physics A-mathematical and Theoretical
+  month: NOV 19
+  number: 46
+  tags: [sci,wos,scopus]
+  title: Representing continuous t-norms in quantum computation with mixed states
+  type: article
+  unique-id: ISI:000283795900017
+  volume: 43
+  year: 2010
+- article-number: 1
+  authors: ['Riecanova, Zdenka']
+  cites: [JenPul-OCEA]
+  doi: 10.3842/SIGMA.2010.001
+  issn: 1815-0659
+  journal: Symmetry Integrability and Geometry-methods and Applications
+  tags: [sci,wos,scopus]
+  title: Archimedean Atomic Lattice Effect Algebras with Complete Lattice of Sharp
+    Elements
+  type: article
+  unique-id: ISI:000273562500001
+  volume: 6
+  year: 2010
+- authors: ['Mesiar, Radko', 'Sarkoci, Peter']
+  cites: [JenPul-OCEA]
+  endpage: 599
+  issn: 0023-5954
+  journal: Kybernetika
+  number: 4
+  startpage: 585
+  tags: [sci,wos,scopus]
+  title: Open Problems Posed at the Tenth International Conference on Fuzzy Set Theory
+    and Applications (Fsta 2010, Liptovsky Jan, Slovakia)
+  type: article
+  unique-id: ISI:000284562000001
+  volume: 46
+  year: 2010
+- authors: ['Tkadlec, Josef']
+  cites: [JenPul-OCEA]
+  doi: 10.1007/s00012-009-0013-3
+  endpage: 194
+  issn: 0002-5240
+  journal: Algebra Universalis
+  month: NOV
+  number: 2
+  startpage: 187
+  tags: [sci,wos,scopus]
+  title: Effect algebras with the maximality property
+  type: article
+  unique-id: ISI:000271640500003
+  volume: 61
+  year: 2009
+- authors: ['Paseka, Jan', 'Riecanova, Zdenka']
+  cites: [JenPul-OCEA]
+  endpage: 1051
+  issn: 0023-5954
+  journal: Kybernetika
+  number: 6
+  startpage: 1040
+  tags: [sci,wos,scopus]
+  title: Atomicity of Lattice Effect Algebras and Their Sub-lattice Effect Algebras
+  type: article
+  unique-id: ISI:000275281200012
+  volume: 45
+  year: 2009
+- authors: ['Garcia Mazario, Francisco', 'Morales, Pedro']
+  cites: [JenPul-OCEA]
+  doi: 10.1007/s00012-006-1983-z
+  endpage: 105
+  issn: 0002-5240
+  journal: Algebra Universalis
+  month: FEB
+  number: 1
+  startpage: 93
+  tags: [sci,wos,scopus]
+  title: The support of a uniform semigroup valued measure
+  type: article
+  unique-id: ISI:000244065200007
+  volume: 56
+  year: 2007

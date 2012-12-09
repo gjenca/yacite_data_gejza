@@ -1,0 +1,19 @@
+# extends "base.html"
+# block body
+<ol>
+# for bi in bibitems:
+# if bi.myown:
+<li>
+{{  bi.authors|join(",") }}
+<em>{{bi.title}}</em>,
+{{bi.journal}},
+<strong>{{bi.volume}}</strong>
+({{bi.year}})
+{{bi.startpage}}-{{bi.endpage}}
+FILE:{{bi.__file__}} INDEX:{{bi.__index__}}
+</li>
+# endif
+# endfor
+</ol>
+# endblock
+

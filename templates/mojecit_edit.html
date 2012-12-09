@@ -1,0 +1,45 @@
+# extends "base.html"
+# block body
+# for bi in bibitems:
+# if bi.myown
+  <h3>Paper:</h3>
+  <p>
+  {{  bi.authors|join(", ") }}:
+  <em>{{bi.title}}</em>,
+  {{bi.journal}},
+  <strong>{{bi.volume}}</strong>
+  ({{bi.year}})
+  {{bi.startpage}}-{{bi.endpage}}
+  </p>
+  FILE:{{bi.__file__}} INDEX:{{bi.__index__}}
+  # if bi.citedby:
+  <h3>
+  Cited in:
+  </h3>
+  <ol>
+  # for bic in bi.citedby:
+    <li>
+    {{  bic.authors|join(", ") }}:
+    <em>{{bic.title}}</em>,
+    # if bic.journal:
+        {{bic.journal}},
+    # endif
+    # if bic.series:
+        {{bic.series}},
+    # endif
+    <strong>{{bic.volume}}</strong>
+    ({{bic.year}})
+    {{bic.startpage}}-{{bic.endpage}}
+    # if "as-preprint" in bic.tags:
+    	(cited as preprint)
+    # endif
+    FILE:{{bic.__file__}} INDEX:{{bic.__index__}}
+    </li>
+  # endfor
+  </ol>
+  #endif
+  <hr>
+# endif
+# endfor
+# endblock
+

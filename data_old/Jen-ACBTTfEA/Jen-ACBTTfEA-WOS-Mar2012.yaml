@@ -1,0 +1,112 @@
+- authors: ['Foulis, David J.', 'Pulmannova, Sylvia']
+  cites: [Jen-ACBTTfEA]
+  doi: 10.2478/s12175-011-0025-2
+  endpage: 522
+  issn: 0139-9918
+  journal: Mathematica Slovaca
+  month: JUN
+  number: 3
+  startpage: 485
+  tags: [sci,wos,scopus]
+  title: Hull Mappings and Dimension Effect Algebras
+  type: article
+  unique-id: ISI:000292450100013
+  volume: 61
+  year: 2011
+- authors: ['Kuhr, Jan']
+  cites: [Jen-ACBTTfEA]
+  endpage: 404
+  issn: 1542-3980
+  journal: Journal of Multiple-valued Logic and Soft Computing
+  number: 3-5, SI
+  startpage: 387
+  tags: [sci,wos,scopus]
+  title: Boolean and Central Elements and Cantor-Bernstein Theorem in Bounded Pseudo-BCK-Algebras
+  type: article
+  unique-id: ISI:000277167200009
+  volume: 16
+  year: 2010
+- authors: ['Jakubik, Jan']
+  cites: [Jen-ACBTTfEA]
+  doi: 10.1007/s10587-008-0001-3
+  endpage: 14
+  issn: 0011-4642
+  journal: Czechoslovak Mathematical Journal
+  month: MAR
+  number: 1
+  startpage: 1
+  tags: [sci,wos,scopus]
+  title: On a theorem of Cantor-Bernstein type for algebras
+  type: article
+  unique-id: ISI:000256262800001
+  volume: 58
+  year: 2008
+- authors: ['Kuehr, Jan']
+  cites: [Jen-ACBTTfEA]
+  doi: 10.1007/s10773-007-9465-4
+  endpage: 222
+  issn: 0020-7748
+  journal: International Journal of Theoretical Physics
+  month: JAN
+  note: 8th Biennial Meeting of the International-Quantum-Structures-Association,
+    Malta, MALTA, JUL 09-14, 2006
+  number: 1
+  organization: Int Quantum Structures Assoc; Math Inst Slovak Acad Sci; Univ Malta
+  startpage: 212
+  tags: [sci,wos,scopus]
+  title: Cantor-Bernstein theorem for Pseudo-BCK-Algebras
+  type: article
+  unique-id: ISI:000252192000020
+  volume: 47
+  year: 2008
+- authors: ['Di Nola, Antonio', 'Navara, Mirko']
+  booktitle: 'Algebraic and Proof-theoretic Aspects of Non-classical Logics: Papers
+    in Honor of Daniele Mundici on the Occasion of His 60th Birthday'
+  cites: [Jen-ACBTTfEA]
+  endpage: 118
+  isbn: 978-3-540-75938-6
+  issn: 0302-9743
+  note: International Conference on Algebraic and Logical Foundations of Many-Valued
+    Reasoning in honor of Daniele Mundici on his 60th Birthday, Gargnano, ITALY, MAR
+    19-23, 2006
+  organization: Univ Milan; Kurt Godel Soc; Inst Nazl Alta Matemat, GNSAGA Dept
+  series: Lecture Notes in Artificial Intelligence
+  startpage: 107
+  tags: [sci,wos]
+  title: Cantor-Bernstein property for MV-algebras
+  type: inproceedings
+  unique-id: ISI:000252215100007
+  volume: 4460
+  year: 2007
+- authors: ['Di Nola, Antonio', 'Navara, Mirko']
+  booktitle: Theoretical Advances and Applications of Fuzzy Logic and Soft Computing
+  cites: [Jen-ACBTTfEA]
+  endpage: 868
+  isbn: 978-3-540-72433-9
+  issn: 1615-3871
+  note: IFSA 2007 World Congress, Cancun, MEXICO, JUN 18-21, 2007
+  organization: Int Fuzzy Syst Assoc; Hispan Amer Fuzzy Syst Assoc; Tijuana Inst Technol,
+    Div Grad Studies
+  series: Advances in Soft Computing
+  startpage: 861
+  tags: [sci,wos]
+  title: MV-Algebras with the Cantor-Bernstein property
+  type: inproceedings
+  unique-id: ISI:000248932700087
+  volume: 42
+  year: 2007
+- authors: ['Goodearl, KR', 'Wehrung, F']
+  cites: [Jen-ACBTTfEA]
+  endpage: ''
+  issn: 0065-9266
+  journal: Memoirs of the American Mathematical Society
+  month: JUL
+  number: 831
+  startpage: III+
+  tags: [sci,wos,scopus]
+  title: The Complete Dimension Theory of Partially Ordered Systems with Equivalence
+    and Orthogonality
+  type: article
+  unique-id: ISI:000230106000001
+  volume: 176
+  year: 2005

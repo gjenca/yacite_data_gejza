@@ -1,0 +1,33 @@
+# extends "base.html" 
+# block body 
+# for bi in bibitems 
+#     if bi.citedby 
+        <li>
+#         for au in bi.authors 
+            {{au}},
+#         endfor :
+        <em>{{bi.title}}</em>,
+        {{bi.journal}},
+        <strong>{{bi.volume}}</strong>
+        ({{bi.year}})
+        {{bi.startpage}}-{{bi.endpage}}
+        <ul>
+#         for cb in bi.citedby 
+            <li>
+#             for au in cb.authors 
+                {{au}},
+#             endfor :
+            <em>{{cb.title}}</em>,
+            {{cb.journal}},
+            <strong>{{cb.volume}}</strong>
+            ({{cb.year}})
+            {{cb.startpage}}-{{cb.endpage}}
+            </li>
+#         endfor 
+    </ul>
+        </li>
+#     endif 
+# endfor 
+</ol>
+# endblock 
+

@@ -1,6 +1,6 @@
 authors: ['Xin, Xiao Long', 'Ji, Wei']
-cites: [JenPul-OCEA, Jen-BoHEA, JenRie-OsEiLOEA, JenPul-QoPAMatRDP, Jen-SaMEiOHEA,
-  Jen-0HEA]
+cites: [jenca2003orthocomplete, jenca2001blocks, jenca1999onsharp, jenca2002quotients,
+  jenca2010sharp, jenca20100homogeneous]
 doi: 10.1007/s00500-011-0712-5
 endpage: 2505
 issn: 1432-7643

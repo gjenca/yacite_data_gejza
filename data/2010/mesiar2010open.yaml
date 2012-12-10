@@ -1,5 +1,6 @@
 authors: ['Mesiar, Radko', 'Sarkoci, Peter']
-cites: [Jen-BoHEA, Jen-FHaLOEA, JenPul-OCEA, JenRie-OsEiLOEA, Jen-SaMEiOHEA]
+cites: [jenca2001blocks, jenca2003finite, jenca2003orthocomplete, jenca1999onsharp,
+  jenca2010sharp]
 endpage: 599
 issn: 0023-5954
 journal: Kybernetika

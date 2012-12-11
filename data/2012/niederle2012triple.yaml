@@ -1,7 +1,7 @@
 authors: ['Niederle, Josef', 'Paseka, Jan']
 book-group-author: IEEE
 booktitle: 2012 42nd Ieee International Symposium on Multiple-valued Logic (Ismvl)
-cites: [jenca2010sharp, jenca2003orthocomplete, jenca2001blocks]
+cites: [jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
 doi: 10.1109/ISMVL.2012.27
 endpage: 342
 isbn: 978-0-7695-4673-5

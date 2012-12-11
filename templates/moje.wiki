@@ -1,7 +1,7 @@
 ﻿
 # for bi in bibitems:
 # if bi.myown:
- 1. {{  bi.authors|join(", ") }}: ''{{bi.title}}'', {{bi.journal}}, '''{{bi.volume}}''' ({{bi.year}}) {{bi.startpage}}-{{bi.endpage}} {{bi.arxivurl}}
+ 1. {{  bi.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}: ''{{bi.title}}'', {{bi.journal}}, '''{{bi.volume}}''' ({{bi.year}}) {{bi.startpage}}-{{bi.endpage}} {{bi.arxivurl}}
 # endif
 # endfor
 

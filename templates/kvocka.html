@@ -1,0 +1,40 @@
+<h2>
+{{ extra.title }}
+</h2>
+# for bi in bibitems:
+# if bi.myown
+  # if bi.citedby:
+  <h3>Článok:</h3>
+  <p>
+  {{  bi.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+  <em>{{bi.title}}</em>,
+  {{bi.journal}},
+  <strong>{{bi.volume}}</strong>
+  ({{bi.year}})
+  {{bi.startpage}}-{{bi.endpage}}
+  </p>
+  <h3>
+  Citovaný v:
+  </h3>
+  <ol>
+  # for bic in bi.citedby:
+    <li>
+    {{  bic.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+    <em>{{bic.title}}</em>,
+    # if bic.journal:
+        {{bic.journal}},
+    # endif
+    # if bic.series:
+        {{bic.series}},
+    # endif
+    <strong>{{bic.volume}}</strong>
+    ({{bic.year}})
+    {{bic.startpage}}-{{bic.endpage}}
+    </li>
+  # endfor
+  </ol>
+  <hr>
+  #endif
+# endif
+# endfor
+

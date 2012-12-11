@@ -1,0 +1,5 @@
+#for bi in bibitems:
+#if bi. myown:
+{{bi.key}}
+#endif
+#endfor

@@ -1,11 +1,12 @@
 authors: ['Paseka, Jan', 'Riečanová, Zdenka']
-cites: [JenPul-OCEA]
+cites: [jenca2003orthocomplete]
 doi: 10.1007/s00500-010-0561-7
 endpage: 555
 issn: 1432-7643
 journal: Soft Computing
 key: paseka2011theinheritance
 month: MAR
+myown: false
 number: 3, SI
 startpage: 543
 tags: [sci, wos, scopus]

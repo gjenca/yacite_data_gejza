@@ -1,11 +1,12 @@
 authors: ['Paseka, Jan', 'Niederle, Josef']
-cites: [Jen-SaMEiOHEA, JenRie-OsEiLOEA]
+cites: [jenca2010sharp, jenca1999onsharp, jenca2001blocks]
 doi: 10.1007/s00500-011-0738-8
 endpage: 119
 issn: 1432-7643
 journal: Soft Computing
 key: niederle2012more
 month: JAN
+myown: false
 number: 1
 startpage: 109
 tags: [sci, wos]

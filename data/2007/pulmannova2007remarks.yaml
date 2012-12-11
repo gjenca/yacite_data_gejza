@@ -1,11 +1,12 @@
 authors: ['Pulmannová, S.', 'Vinceková, E.']
-cites: [Jen-NoRIiPAM]
+cites: [jenca2000notes]
 doi: 10.2478/s12175-007-0048-x
 endpage: 600
 issn: 0139-9918
 journal: Mathematica Slovaca
 key: pulmannova2007remarks
 month: DEC
+myown: false
 number: 6
 startpage: 589
 tags: [wos, sci]

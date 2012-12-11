@@ -1,11 +1,12 @@
 authors: ['Min-hyung, Cho', 'Zhi-jian, Yu', 'Jun-de, Wu']
-cites: [JenPul-QoPAMatRDP, Jen-NoRIiPAM]
+cites: [jenca2002quotients, jenca2000notes]
 doi: 10.1007/s11766-010-2016-4
 endpage: 116
 issn: 1005-1031
 journal: Applied Mathematics-a Journal of Chinese Universities Series B
 key: zhi-jian2010special
 month: MAR
+myown: false
 number: 1
 startpage: 112
 tags: [scopus, sci, wos]

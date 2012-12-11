@@ -1,11 +1,12 @@
 authors: ['Chajda, Ivan', 'Halaš, Radomír', 'Kühr, Jan']
-cites: [JenRie-OsEiLOEA]
+cites: [jenca1999onsharp]
 doi: 10.1007/s00012-008-2086-9
 endpage: 90
 issn: 0002-5240
 journal: Algebra Universalis
 key: chajda2009manyvalued
 month: FEB
+myown: false
 number: 1
 startpage: 63
 tags: [wos, sci]

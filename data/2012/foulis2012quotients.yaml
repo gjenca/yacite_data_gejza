@@ -1,11 +1,12 @@
 authors: ['Foulis, David J.', 'Pulmannová, Sylvia']
-cites: [Jen-TBSoCLOEA]
+cites: [jenca2007theblock]
 doi: 10.1007/s00012-012-0165-4
 endpage: 104
 issn: 0002-5240
 journal: Algebra Universalis
 key: foulis2012quotients
 month: FEB
+myown: false
 number: 1
 startpage: 81
 tags: [sci, wos, scopus]

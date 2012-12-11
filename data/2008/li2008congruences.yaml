@@ -1,11 +1,12 @@
 authors: ['Li, Hai-Yang', 'Li, Sheng-Gang']
-cites: [JenPul-IaQiLOEA]
+cites: [jenca2001ideals]
 doi: 10.1007/s00500-007-0209-4
 endpage: 492
 issn: 1432-7643
 journal: Soft Computing
 key: li2008congruences
 month: MAR
+myown: false
 number: 5
 startpage: 487
 tags: [sci, wos]

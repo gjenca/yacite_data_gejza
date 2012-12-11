@@ -1,11 +1,12 @@
 authors: ['Qiang, Lei', 'Junde, Wu', 'Ronglu, Li']
-cites: [JenRie-OsEiLOEA]
+cites: [jenca1999onsharp]
 doi: 10.1016/j.aml.2009.01.008
 endpage: 1006
 issn: 0893-9659
 journal: Applied Mathematics Letters
 key: qiang2009interval
 month: JUL
+myown: false
 number: 7
 startpage: 1003
 tags: [wos, sci]

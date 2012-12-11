@@ -1,7 +1,7 @@
 address: VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
 affiliation: Slovak Acad Sci, Inst Math, SK-81473 Bratislava, Slovakia.
 authors: ['Dvurečenskij, A', 'Vetterlein, T']
-cites: [JenPul-QoPAMatRDP]
+cites: [jenca2002quotients]
 doc-delivery-number: 578VP
 doi: 10.1023/A:1016551707476
 endpage: 146
@@ -13,6 +13,7 @@ keywords: BCK-algebras; cone algebras; generalized effect algebras; po-groups; p
   minimal clans; pseudoeffect algebras; semiclans
 keywords-plus: PSEUDOEFFECT ALGEBRAS
 language: English
+myown: false
 number: 2
 number-of-cited-references: 24
 publisher: KLUWER ACADEMIC PUBL

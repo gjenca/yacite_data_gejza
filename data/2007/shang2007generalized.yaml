@@ -1,11 +1,12 @@
 authors: ['Shang, Yun', 'Li, Yongming']
-cites: [JenPul-IaQiLOEA]
+cites: [jenca2001ideals]
 doi: 10.1007/s00500-006-0126-y
 endpage: 645
 issn: 1432-7643
 journal: Soft Computing
 key: shang2007generalized
 month: MAY
+myown: false
 number: 7
 startpage: 641
 tags: [sci, wos]

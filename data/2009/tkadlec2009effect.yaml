@@ -1,11 +1,12 @@
 authors: ['Tkadlec, Josef']
-cites: [JenPul-OCEA]
+cites: [jenca2003orthocomplete]
 doi: 10.1007/s00012-009-0013-3
 endpage: 194
 issn: 0002-5240
 journal: Algebra Universalis
 key: tkadlec2009effect
 month: NOV
+myown: false
 number: 2
 startpage: 187
 tags: [sci, wos, scopus]

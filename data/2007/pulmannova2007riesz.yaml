@@ -1,10 +1,11 @@
 authors: ['Pulmannová, S.', 'Vinceková, E.']
-cites: [Jen-BoHEA, Jen-NoRIiPAM]
+cites: [jenca2001blocks, jenca2000notes]
 doi: 10.1007/s00012-007-2043-z
 endpage: 417
 issn: 0002-5240
 journal: Algebra Universalis
 key: pulmannova2007riesz
+myown: false
 number: 4
 startpage: 393
 tags: [scopus, sci, wos]

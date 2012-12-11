@@ -1,11 +1,12 @@
 authors: ['Pulmannová, Silvia', 'Vinceková, Elena']
-cites: [Jen-NoRIiPAM]
+cites: [jenca2000notes]
 doi: 10.1007/s00500-009-0532-z
 endpage: 1215
 issn: 1432-7643
 journal: Soft Computing
 key: pulmannova2010congruences
 month: SEP
+myown: false
 number: 11
 startpage: 1209
 tags: [wos, sci]

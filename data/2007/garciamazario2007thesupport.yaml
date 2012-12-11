@@ -1,11 +1,12 @@
 authors: ['Morales, Pedro', 'Garcia Mazario, Francisco']
-cites: [JenPul-OCEA, JenPul-QoPAMatRDP]
+cites: [jenca2003orthocomplete, jenca2002quotients]
 doi: 10.1007/s00012-006-1983-z
 endpage: 105
 issn: 0002-5240
 journal: Algebra Universalis
 key: garciamazario2007thesupport
 month: FEB
+myown: false
 number: 1
 startpage: 93
 tags: [scopus, sci, wos]

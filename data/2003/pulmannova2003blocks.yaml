@@ -7,7 +7,7 @@ myown: false
 number: 5
 publisher: Mathematical Institute of the Slovak Academy of Sciences
 startpage: 525
-tags: [dautor]
+tags: [dpub, dautor]
 title: Blocks in homogeneous effect algebras and MV-algebras
 type: article
 volume: 53

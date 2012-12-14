@@ -1,9 +1,9 @@
 ﻿
-# for bi in bibitems:
-# if bi.myown:
- 1. {{  bi.authors|join(",") }}: *{{bi.title}}*, {{bi.journal}}, **{{bi.volume}}** ({{bi.year}}) {{bi.startpage}}-{{bi.endpage}} 
-# if bi.arxiv 
- [arXiv:{{bi.arxiv}}]({{bi.arxivurl}})
+# for rec in records:
+# if rec.myown:
+ 1. {{  rec.authors|join(",") }}: *{{rec.title}}*, {{rec.journal}}, **{{rec.volume}}** ({{rec.year}}) {{rec.startpage}}-{{rec.endpage}} 
+# if rec.arxiv 
+ [arXiv:{{rec.arxiv}}]({{rec.arxivurl}})
 # endif
 # endif
 # endfor

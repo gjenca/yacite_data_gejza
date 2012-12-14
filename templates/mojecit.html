@@ -1,35 +1,35 @@
 # extends "base.html"
 # block body
-# for bi in bibitems:
-# if bi.myown
-  # if bi.citedby:
+# for rec in records:
+# if rec.myown
+  # if rec.citedby:
   <h3>Paper:</h3>
   <p>
-  {{  bi.authors|join(", ") }}:
-  <em>{{bi.title}}</em>,
-  {{bi.journal}},
-  <strong>{{bi.volume}}</strong>
-  ({{bi.year}})
-  {{bi.startpage}}-{{bi.endpage}}
+  {{  rec.authors|join(", ") }}:
+  <em>{{rec.title}}</em>,
+  {{rec.journal}},
+  <strong>{{rec.volume}}</strong>
+  ({{rec.year}})
+  {{rec.startpage}}-{{rec.endpage}}
   </p>
   <h3>
   Cited in:
   </h3>
   <ol>
-  # for bic in bi.citedby:
+  # for rec_cited in rec.citedby:
     <li>
-    {{  bic.authors|join(", ") }}:
-    <em>{{bic.title}}</em>,
-    # if bic.journal:
-        {{bic.journal}},
+    {{  rec_cited.authors|join(", ") }}:
+    <em>{{rec_cited.title}}</em>,
+    # if rec_cited.journal:
+        {{rec_cited.journal}},
     # endif
-    # if bic.series:
-        {{bic.series}},
+    # if rec_cited.series:
+        {{rec_cited.series}},
     # endif
-    <strong>{{bic.volume}}</strong>
-    ({{bic.year}})
-    {{bic.startpage}}-{{bic.endpage}}
-    # if "as-preprint" in bic.tags:
+    <strong>{{rec_cited.volume}}</strong>
+    ({{rec_cited.year}})
+    {{rec_cited.startpage}}-{{rec_cited.endpage}}
+    # if "as-preprint" in rec_cited.tags:
     	(cited as preprint)
     # endif
     </li>

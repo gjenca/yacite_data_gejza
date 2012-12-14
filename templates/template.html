@@ -1,18 +1,18 @@
 # extends "base.html" 
 # block body 
-# for bi in bibitems 
-#     if bi.citedby 
+# for rec in records 
+#     if rec.citedby 
         <li>
-#         for au in bi.authors 
+#         for au in rec.authors 
             {{au}},
 #         endfor :
-        <em>{{bi.title}}</em>,
-        {{bi.journal}},
-        <strong>{{bi.volume}}</strong>
-        ({{bi.year}})
-        {{bi.startpage}}-{{bi.endpage}}
+        <em>{{rec.title}}</em>,
+        {{rec.journal}},
+        <strong>{{rec.volume}}</strong>
+        ({{rec.year}})
+        {{rec.startpage}}-{{rec.endpage}}
         <ul>
-#         for cb in bi.citedby 
+#         for cb in rec.citedby 
             <li>
 #             for au in cb.authors 
                 {{au}},

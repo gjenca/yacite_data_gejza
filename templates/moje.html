@@ -1,15 +1,15 @@
 # extends "base.html"
 # block body
 <ol>
-# for bi in bibitems:
-# if bi.myown:
+# for rec in records:
+# if rec.myown:
 <li>
-{{  bi.authors|join(", ") }}
-<em>{{bi.title}}</em>,
-{{bi.journal}},
-<strong>{{bi.volume}}</strong>
-({{bi.year}})
-{{bi.startpage}}-{{bi.endpage}}
+{{  rec.authors|join(", ") }}
+<em>{{rec.title}}</em>,
+{{rec.journal}},
+<strong>{{rec.volume}}</strong>
+({{rec.year}})
+{{rec.startpage}}-{{rec.endpage}}
 </li>
 # endif
 # endfor

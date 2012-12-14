@@ -1,5 +1,5 @@
-#for bi in bibitems:
-#if bi. myown:
-{{bi.key}}
+#for rec in records:
+#if rec.myown:
+{{rec.key}}
 #endif
 #endfor

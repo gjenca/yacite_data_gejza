@@ -1,35 +1,35 @@
 <h2>
 {{ extra.title }}
 </h2>
-# for bi in bibitems:
-# if bi.myown
-  # if bi.citedby:
+# for rec in records:
+# if rec.myown
+  # if rec.citedby:
   <h3>Článok:</h3>
   <p>
-  {{  bi.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
-  <em>{{bi.title}}</em>,
-  {{bi.journal}},
-  <strong>{{bi.volume}}</strong>
-  ({{bi.year}})
-  {{bi.startpage}}-{{bi.endpage}}
+  {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+  <em>{{rec.title}}</em>,
+  {{rec.journal}},
+  <strong>{{rec.volume}}</strong>
+  ({{rec.year}})
+  {{rec.startpage}}-{{rec.endpage}}
   </p>
   <h3>
   Citovaný v:
   </h3>
   <ol>
-  # for bic in bi.citedby:
+  # for rec_cited in rec.citedby:
     <li>
-    {{  bic.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
-    <em>{{bic.title}}</em>,
-    # if bic.journal:
-        {{bic.journal}},
+    {{  rec_cited.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+    <em>{{rec_cited.title}}</em>,
+    # if rec_cited.journal:
+        {{rec_cited.journal}},
     # endif
-    # if bic.series:
-        {{bic.series}},
+    # if rec_cited.series:
+        {{rec_cited.series}},
     # endif
-    <strong>{{bic.volume}}</strong>
-    ({{bic.year}})
-    {{bic.startpage}}-{{bic.endpage}}
+    <strong>{{rec_cited.volume}}</strong>
+    ({{rec_cited.year}})
+    {{rec_cited.startpage}}-{{rec_cited.endpage}}
     </li>
   # endfor
   </ol>

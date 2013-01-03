@@ -85,6 +85,24 @@ unique-id: ISI:000303851300009
 volume: 48
 year: 2012
 ---
+authors: ['Foulis, D.J.', 'Pulmannová, S.']
+cites: [jenca2007theblock, jenca1999onsharp]
+document_type: Article
+endpage: 1315
+journal: Studia Logica
+key: foulis2012logical
+myown: false
+note: cited By (since 1996) 0
+number: 6
+source: Scopus
+startpage: 1291
+tags: [scopus, sci, cc, zpub, dautor, zautor]
+title: Logical Connectives on Lattice Effect Algebras
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84870773045&partnerID=40&md5=878cd26e5f28be629753c8132cc8e48a
+volume: 100
+year: 2012
+---
 authors: ['Jenča, G.']
 endpage: 85
 grants: VEGA G-1/4297/97
@@ -106,7 +124,7 @@ journal: Journal of Electrical Engineering
 key: jenca1999sheaf
 myown: true
 startpage: 66
-tags: [zpub]
+tags: [dpub]
 title: Sheaf representations of partial abelian monoids
 type: article
 volume: 50
@@ -349,6 +367,23 @@ type: article
 volume: 139
 year: 2011
 ---
+authors: ['Jenča, G.']
+document_type: Article
+endpage: 544
+journal: Order
+key: jenca2012extensions
+myown: true
+note: cited By (since 1996) 0
+number: 3
+source: Scopus
+startpage: 533
+tags: [zpub, scopus, sci, wos]
+title: Extensions of Witness Mappings
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84867097683&partnerID=40&md5=48a43d5c253d964d3242aac9a67de8f1
+volume: 29
+year: 2012
+---
 arxiv: '0910.2825'
 authors: ['Jenča, G.']
 endpage: 378
@@ -357,7 +392,7 @@ journal: Mathematica Slovaca
 key: jenca2012compatibility
 myown: true
 startpage: 363
-tags: [sci, dpub]
+tags: [sci, dpub, scopus]
 title: Compatibility support mappings in effect algebras
 volume: 62
 year: 2012

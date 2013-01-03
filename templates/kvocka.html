@@ -1,10 +1,10 @@
-<h2>
+<h3>
 {{ extra.title }}
-</h2>
+</h3>
 # for rec in records:
 # if rec.myown
   # if rec.citedby:
-  <h3>Článok:</h3>
+  <h4>Článok:</h4>
   <p>
   {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
   <em>{{rec.title}}</em>,
@@ -13,9 +13,9 @@
   ({{rec.year}})
   {{rec.startpage}}-{{rec.endpage}}
   </p>
-  <h3>
-  Citovaný v:
-  </h3>
+  <h4>
+  Citovaný v (počet {{ rec.citedby | length }}):
+  </h4>
   <ol>
   # for rec_cited in rec.citedby:
     <li>

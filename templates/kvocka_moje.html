@@ -1,0 +1,17 @@
+# if records
+<h3>
+{{ extra.title }}
+</h3>
+<ol>
+# for rec in records:
+  <li>
+  {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+  <em>{{rec.title}}</em>,
+  {{rec.journal}},
+  <strong>{{rec.volume}}</strong>
+  ({{rec.year}})
+  {{rec.startpage}}-{{rec.endpage}}
+  </li>
+# endfor
+</ol>
+# endif

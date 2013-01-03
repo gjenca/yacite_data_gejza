@@ -1,4 +1,23 @@
 ---
+article-number: jzr052
+authors: ['De La Vega, H.']
+cites: [jenca2007arepresentation, jenca2004boolean, dinola2009thecategory]
+document_type: Article
+endpage: 1152
+journal: Logic Journal of the IGPL
+key: delavega2012normal
+myown: false
+note: cited By (since 1996) 0
+number: 6
+source: Scopus
+startpage: 1133
+tags: [scopus, zpub, zautor, sci, wos]
+title: Normal and complete Boolean ambiguity algebras and MV-pairs
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84870444115&partnerID=40&md5=3788e40431cd19508848005696ed01ed
+volume: 20
+year: 2012
+---
 authors: ['Niederle, Josef', 'Paseka, Jan']
 book-group-author: IEEE
 booktitle: 2012 42nd Ieee International Symposium on Multiple-valued Logic (Ismvl)
@@ -57,23 +76,6 @@ unique-id: ISI:000300245700012
 volume: 16
 year: 2012
 ---
-authors: ['Niederle, Josef', 'Paseka, Jan']
-cites: [jenca1999onsharp, jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
-doi: 10.1016/j.fss.2012.07.009
-endpage: 101
-issn: 0165-0114
-journal: Fuzzy Sets and Systems
-key: niederle2013homogeneous
-month: JAN 1
-myown: false
-startpage: 89
-tags: [sci, zautor, wos, zpub]
-title: Homogeneous orthocomplete effect algebras are covered by MV-algebras
-type: article
-unique-id: ISI:000310662400007
-volume: 210
-year: 2013
----
 authors: ['Jenča, G.']
 endpage: 85
 grants: VEGA G-1/4297/97
@@ -95,7 +97,7 @@ journal: Journal of Electrical Engineering
 key: jenca1999sheaf
 myown: true
 startpage: 66
-tags: [zpub]
+tags: [dpub]
 title: Sheaf representations of partial abelian monoids
 type: article
 volume: 50
@@ -338,6 +340,23 @@ type: article
 volume: 139
 year: 2011
 ---
+authors: ['Jenča, G.']
+document_type: Article
+endpage: 544
+journal: Order
+key: jenca2012extensions
+myown: true
+note: cited By (since 1996) 0
+number: 3
+source: Scopus
+startpage: 533
+tags: [zpub, scopus, sci, wos]
+title: Extensions of Witness Mappings
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84867097683&partnerID=40&md5=48a43d5c253d964d3242aac9a67de8f1
+volume: 29
+year: 2012
+---
 arxiv: '0910.2825'
 authors: ['Jenča, G.']
 endpage: 378
@@ -346,7 +365,7 @@ journal: Mathematica Slovaca
 key: jenca2012compatibility
 myown: true
 startpage: 363
-tags: [sci, dpub]
+tags: [sci, dpub, scopus]
 title: Compatibility support mappings in effect algebras
 volume: 62
 year: 2012

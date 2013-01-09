@@ -1,189 +1,18 @@
 ---
-article-number: jzr052
-authors: ['De La Vega, H.']
-cites: [jenca2007arepresentation, jenca2004boolean, dinola2009thecategory]
-document_type: Article
-endpage: 1152
-journal: Logic Journal of the IGPL
-key: delavega2012normal
-myown: false
-note: cited By (since 1996) 0
-number: 6
-source: Scopus
-startpage: 1133
-tags: [scopus, zpub, zautor, sci, wos]
-title: Normal and complete Boolean ambiguity algebras and MV-pairs
-type: article
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84870444115&partnerID=40&md5=3788e40431cd19508848005696ed01ed
-volume: 20
-year: 2012
----
-authors: ['Niederle, Josef', 'Paseka, Jan']
-book-group-author: IEEE
-booktitle: 2012 42nd Ieee International Symposium on Multiple-valued Logic (Ismvl)
-cites: [jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
-doi: 10.1109/ISMVL.2012.27
-endpage: 342
-isbn: 978-0-7695-4673-5
-issn: 0195-623X
-key: niederle2012triple
-myown: false
-note: 42nd IEEE International Symposium on Multiple-Valued Logic (ISMVL), Victoria,
-  CANADA, MAY 14-16, 2012
-organization: IEEE; IEEE Comp Soc; IEEE Comp Soc Tech Comm Multiple-Valued Log; Univ
-  Victoria, Off Vice-President Res; Pacific Inst Math Sci; Univ Victoria, Fac Engn
-series: International Symposium on Multiple-Valued Logic
-startpage: 337
-tags: [scopus, sci, zautor, wos, zpub]
-title: Triple Representation Theorem for homogeneous effect algebras
-type: inproceedings
-unique-id: ISI:000309229100058
-year: 2012
----
-authors: ['Paseka, Jan', 'Niederle, Josef']
-cites: [jenca1999onsharp, jenca2001blocks, jenca2010sharp]
-doi: 10.1007/s00500-011-0738-8
-endpage: 119
-issn: 1432-7643
-journal: Soft Computing
-key: niederle2012more
-month: JAN
-myown: false
-number: 1
-startpage: 109
-tags: [sci, zautor, wos, zpub]
-title: More about sharp and meager elements in Archimedean atomic lattice effect algebras
-type: article
-unique-id: ISI:000298996100009
-volume: 16
-year: 2012
----
-authors: ['Li, Hai-Yang', 'Peng, Ji-Gen']
-cites: [jenca1999anote, jenca2001ideals]
-doi: 10.1007/s00500-011-0750-z
-endpage: 492
-issn: 1432-7643
-journal: Soft Computing
-key: li2012quotients
-month: MAR
-myown: false
-number: 3, SI
-startpage: 485
-tags: [sci, zautor, wos, zpub]
-title: Quotients and weakly algebraic sets in pseudoeffect algebras
-type: article
-unique-id: ISI:000300245700012
-volume: 16
-year: 2012
----
+arxiv: '0910.2823'
 authors: ['Jenča, G.']
-endpage: 85
-grants: VEGA G-1/4297/97
-journal: Tatra Mountains Mathematical Publications
-key: jenca1999anote
-myown: true
-startpage: 81
-tags: [dpub]
-title: A note on ideals in generalized effect algebras
-type: article
-volume: 16
-year: 1999
----
-authors: ['Jenča, G.']
-endpage: 70
-grants: VEGA G-1/4297/97
-issue: 10/s
-journal: Journal of Electrical Engineering
-key: jenca1999sheaf
-myown: true
-startpage: 66
-tags: [dpub]
-title: Sheaf representations of partial abelian monoids
-type: article
-volume: 50
-year: 1999
----
-authors: ['Jenča, G.', 'Riečanová, Z.']
-endpage: 29
-grants: VEGA G-1/4297/97
-journal: BUSEFAL
-key: jenca1999onsharp
-myown: true
-startpage: 24
-tags: [zpub]
-title: On sharp elements in lattice ordered effect algebras
-type: article
-volume: 80
-year: 1999
----
-authors: ['Jenča, G.']
-endpage: 319
-grants: VEGA G-1/4297/97
-issue: 4
-journal: Algebra Universalis
-key: jenca2000notes
-myown: true
-startpage: 307
-tags: [sci, zpub]
-title: Notes on R1-ideals in partial abelian monoids
-type: article
-volume: 43
-year: 2000
----
-authors: ['Jenča, G.']
-endpage: 755
-grants: VEGA G-1/4297/97
-issue: 3
-journal: International Journal of Theoretical Physics
-key: jenca2000subcentral
-myown: true
-startpage: 745
-tags: [cc, sci, zpub]
-title: Subcentral ideals in generalized effect algebras
-type: article
-volume: 39
-year: 2000
----
-authors: ['Jenča, G.']
-endpage: 98
-grants: VEGA G-1/7625/20
+endpage: 344
+grants: APVV-0071-06,VEGA G-1/0080/10
 issue: 1
-journal: Bulletin of the Australian Mathematical Society
-key: jenca2001blocks
+journal: Proceedings of the American Mathematical Society
+key: jenca2011coexistence
 myown: true
-startpage: 81
+startpage: 331
 tags: [cc, sci, zpub]
-title: Blocks of homogeneous effect algebras
+title: Coexistence in interval effect algebras
 type: article
-volume: 64
-year: 2001
----
-authors: ['Jenča, G.', 'Riečanová, Z.']
-endpage: 239
-grants: VEGA G-1/7625/20
-issue: 7-8
-journal: Journal of Electrical Engineering
-key: jenca2001asurvey
-myown: true
-startpage: 237
-tags: [zpub]
-title: A Survey on Sharp Elements in Unsharp Quantum Logics
-type: article
-volume: 52
-year: 2001
----
-authors: ['Jenča, G.', 'Pulmannová, S.']
-endpage: 380
-grants: ???
-journal: Soft Computing
-key: jenca2001ideals
-myown: true
-startpage: 376
-tags: [zpub]
-title: Ideals and Quotients in Lattice Ordered Effect Algebras
-type: article
-volume: 5
-year: 2001
+volume: 139
+year: 2011
 ---
 authors: ['Jenča, G.']
 endpage: 411
@@ -241,49 +70,6 @@ type: article
 volume: 272
 year: 2003
 ---
-authors: ['Jenča, G.']
-endpage: 285
-grants: VEGA G-1/7625/20
-issue: 2
-journal: Fuzzy Sets and Systems
-key: jenca2004boolean
-myown: true
-startpage: 279
-tags: [cc, sci, zpub]
-title: Boolean algebras R-generated by MV-effect algebras
-type: article
-volume: 145
-year: 2004
----
-arxiv: math/0602169
-authors: ['Jenča, G.']
-endpage: 564
-grants: VEGA G-1/3025/06,APVT-51-032002
-issue: 6
-journal: Soft Computing
-key: jenca2007arepresentation
-myown: true
-startpage: 557
-tags: [cc, sci, zpub]
-title: A representation theorem for MV-algebras
-type: article
-volume: 11
-year: 2007
----
-authors: ['Jenča, G.']
-endpage: 216
-grants: VEGA G-1/0266/03,APVT-51-032002
-issue: 2
-journal: Journal of the Australian Mathematical Society
-key: jenca2007theblock
-myown: true
-startpage: 181
-tags: [cc, sci, zpub]
-title: The block structure of complete lattice ordered effect algebras
-type: article
-volume: 83
-year: 2007
----
 authors: ['Di Nola, A.', 'Holčapek, M.', 'Jenča, G.']
 endpage: 412
 grants: VEGA G-1/3025/06,APVT-51-032002,APVV-0071-06
@@ -325,21 +111,6 @@ type: article
 volume: 14
 year: 2010
 ---
-arxiv: '0910.2823'
-authors: ['Jenča, G.']
-endpage: 344
-grants: APVV-0071-06,VEGA G-1/0080/10
-issue: 1
-journal: Proceedings of the American Mathematical Society
-key: jenca2011coexistence
-myown: true
-startpage: 331
-tags: [cc, sci, zpub]
-title: Coexistence in interval effect algebras
-type: article
-volume: 139
-year: 2011
----
 authors: ['Jenča, G.']
 document_type: Article
 endpage: 544
@@ -350,7 +121,7 @@ note: cited By (since 1996) 0
 number: 3
 source: Scopus
 startpage: 533
-tags: [zpub, scopus, sci, wos]
+tags: [voc2012, scopus, zpub, sci, wos]
 title: Extensions of Witness Mappings
 type: article
 url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84867097683&partnerID=40&md5=48a43d5c253d964d3242aac9a67de8f1
@@ -365,7 +136,236 @@ journal: Mathematica Slovaca
 key: jenca2012compatibility
 myown: true
 startpage: 363
-tags: [sci, dpub, scopus]
+tags: [voc2012, scopus, sci, dpub]
 title: Compatibility support mappings in effect algebras
 volume: 62
+year: 2012
+---
+authors: ['Jenča, G.']
+endpage: 285
+grants: VEGA G-1/7625/20
+issue: 2
+journal: Fuzzy Sets and Systems
+key: jenca2004boolean
+myown: true
+startpage: 279
+tags: [cc, sci, zpub]
+title: Boolean algebras R-generated by MV-effect algebras
+type: article
+volume: 145
+year: 2004
+---
+authors: ['Jenča, G.']
+endpage: 98
+grants: VEGA G-1/7625/20
+issue: 1
+journal: Bulletin of the Australian Mathematical Society
+key: jenca2001blocks
+myown: true
+startpage: 81
+tags: [cc, sci, zpub]
+title: Blocks of homogeneous effect algebras
+type: article
+volume: 64
+year: 2001
+---
+authors: ['Jenča, G.', 'Riečanová, Z.']
+endpage: 239
+grants: VEGA G-1/7625/20
+issue: 7-8
+journal: Journal of Electrical Engineering
+key: jenca2001asurvey
+myown: true
+startpage: 237
+tags: [zpub]
+title: A Survey on Sharp Elements in Unsharp Quantum Logics
+type: article
+volume: 52
+year: 2001
+---
+authors: ['Jenča, G.', 'Pulmannová, S.']
+endpage: 380
+grants: ???
+journal: Soft Computing
+key: jenca2001ideals
+myown: true
+startpage: 376
+tags: [zpub]
+title: Ideals and Quotients in Lattice Ordered Effect Algebras
+type: article
+volume: 5
+year: 2001
+---
+authors: ['Jenča, G.']
+endpage: 70
+grants: VEGA G-1/4297/97
+issue: 10/s
+journal: Journal of Electrical Engineering
+key: jenca1999sheaf
+myown: true
+startpage: 66
+tags: [dpub]
+title: Sheaf representations of partial abelian monoids
+type: article
+volume: 50
+year: 1999
+---
+authors: ['Jenča, G.', 'Riečanová, Z.']
+endpage: 29
+grants: VEGA G-1/4297/97
+journal: BUSEFAL
+key: jenca1999onsharp
+myown: true
+startpage: 24
+tags: [zpub]
+title: On sharp elements in lattice ordered effect algebras
+type: article
+volume: 80
+year: 1999
+---
+authors: ['Jenča, G.']
+endpage: 85
+grants: VEGA G-1/4297/97
+journal: Tatra Mountains Mathematical Publications
+key: jenca1999anote
+myown: true
+startpage: 81
+tags: [dpub]
+title: A note on ideals in generalized effect algebras
+type: article
+volume: 16
+year: 1999
+---
+authors: ['Jenča, G.']
+endpage: 319
+grants: VEGA G-1/4297/97
+issue: 4
+journal: Algebra Universalis
+key: jenca2000notes
+myown: true
+startpage: 307
+tags: [sci, zpub]
+title: Notes on R1-ideals in partial abelian monoids
+type: article
+volume: 43
+year: 2000
+---
+authors: ['Jenča, G.']
+endpage: 755
+grants: VEGA G-1/4297/97
+issue: 3
+journal: International Journal of Theoretical Physics
+key: jenca2000subcentral
+myown: true
+startpage: 745
+tags: [cc, sci, zpub]
+title: Subcentral ideals in generalized effect algebras
+type: article
+volume: 39
+year: 2000
+---
+arxiv: math/0602169
+authors: ['Jenča, G.']
+endpage: 564
+grants: VEGA G-1/3025/06,APVT-51-032002
+issue: 6
+journal: Soft Computing
+key: jenca2007arepresentation
+myown: true
+startpage: 557
+tags: [cc, sci, zpub]
+title: A representation theorem for MV-algebras
+type: article
+volume: 11
+year: 2007
+---
+authors: ['Jenča, G.']
+endpage: 216
+grants: VEGA G-1/0266/03,APVT-51-032002
+issue: 2
+journal: Journal of the Australian Mathematical Society
+key: jenca2007theblock
+myown: true
+startpage: 181
+tags: [cc, sci, zpub]
+title: The block structure of complete lattice ordered effect algebras
+type: article
+volume: 83
+year: 2007
+---
+authors: ['Li, Hai-Yang', 'Peng, Ji-Gen']
+cites: [jenca1999anote, jenca2001ideals]
+doi: 10.1007/s00500-011-0750-z
+endpage: 492
+issn: 1432-7643
+journal: Soft Computing
+key: li2012quotients
+month: MAR
+myown: false
+number: 3, SI
+startpage: 485
+tags: [voc2012, zpub, sci, zautor, wos]
+title: Quotients and weakly algebraic sets in pseudoeffect algebras
+type: article
+unique-id: ISI:000300245700012
+volume: 16
+year: 2012
+---
+authors: ['Niederle, Josef', 'Paseka, Jan']
+book-group-author: IEEE
+booktitle: 2012 42nd Ieee International Symposium on Multiple-valued Logic (Ismvl)
+cites: [jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
+doi: 10.1109/ISMVL.2012.27
+endpage: 342
+isbn: 978-0-7695-4673-5
+issn: 0195-623X
+key: niederle2012triple
+myown: false
+note: 42nd IEEE International Symposium on Multiple-Valued Logic (ISMVL), Victoria,
+  CANADA, MAY 14-16, 2012
+organization: IEEE; IEEE Comp Soc; IEEE Comp Soc Tech Comm Multiple-Valued Log; Univ
+  Victoria, Off Vice-President Res; Pacific Inst Math Sci; Univ Victoria, Fac Engn
+series: International Symposium on Multiple-Valued Logic
+startpage: 337
+tags: [sci, zautor, zpub, wos, scopus, voc2012, publview]
+title: Triple Representation Theorem for homogeneous effect algebras
+type: inproceedings
+unique-id: ISI:000309229100058
+year: 2012
+---
+article-number: jzr052
+authors: ['De La Vega, H.']
+cites: [jenca2007arepresentation, jenca2004boolean, dinola2009thecategory]
+document_type: Article
+endpage: 1152
+journal: Logic Journal of the IGPL
+key: delavega2012normal
+myown: false
+note: cited By (since 1996) 0
+number: 6
+source: Scopus
+startpage: 1133
+tags: [sci, zautor, publview, zpub, wos, scopus, voc2012, voc2012i]
+title: Normal and complete Boolean ambiguity algebras and MV-pairs
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84870444115&partnerID=40&md5=3788e40431cd19508848005696ed01ed
+volume: 20
+year: 2012
+---
+authors: ['Paseka, Jan', 'Niederle, Josef']
+cites: [jenca1999onsharp, jenca2001blocks, jenca2010sharp]
+doi: 10.1007/s00500-011-0738-8
+endpage: 119
+issn: 1432-7643
+journal: Soft Computing
+key: niederle2012more
+month: JAN
+myown: false
+number: 1
+startpage: 109
+tags: [voc2012, zpub, sci, zautor, wos]
+title: More about sharp and meager elements in Archimedean atomic lattice effect algebras
+type: article
+unique-id: ISI:000298996100009
+volume: 16
 year: 2012

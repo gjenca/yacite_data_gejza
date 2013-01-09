@@ -5,7 +5,7 @@
   # if rec.citedby:
   <h3>Paper:</h3>
   <p>
-  {{  rec.authors|join(", ") }}:
+  {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
   <em>{{rec.title}}</em>,
   {{rec.journal}},
   <strong>{{rec.volume}}</strong>
@@ -18,7 +18,7 @@
   <ol>
   # for rec_cited in rec.citedby:
     <li>
-    {{  rec_cited.authors|join(", ") }}:
+    {{  rec_cited.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
     <em>{{rec_cited.title}}</em>,
     # if rec_cited.journal:
         {{rec_cited.journal}},

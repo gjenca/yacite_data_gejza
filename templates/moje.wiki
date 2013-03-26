@@ -1,7 +1,7 @@
 ﻿
 # for rec in records:
 # if rec.myown:
- 1. {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}: ''{{rec.title}}'', {{rec.journal}}, '''{{rec.volume}}''' ({{rec.year}}) {{rec.startpage}}-{{rec.endpage}} {{rec.arxivurl}}
+ 1. {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}: ''{{rec.title}}'', {{rec.journal}}, '''{{rec.volume}}''' ({{rec.year}}) {{rec.startpage}}-{{rec.endpage}}{% if rec.arxiv %} http://arxiv.org/abs/{{rec.arxiv}}{% endif %}
 # endif
 # endfor
 

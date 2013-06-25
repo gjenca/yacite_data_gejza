@@ -4,7 +4,7 @@
 # for rec in records:
 # if rec.myown:
 <li>
-{{  rec.authors|join(", ") }}
+  {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
 <em>{{rec.title}}</em>,
 {{rec.journal}},
 <strong>{{rec.volume}}</strong>
@@ -15,4 +15,3 @@
 # endfor
 </ol>
 # endblock
-

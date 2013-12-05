@@ -1,0 +1,21 @@
+# extends "base.html"
+# block body
+<table border="1">
+# for rec in records:
+# if rec.myown:
+<li>
+{{  rec.authors|join(", ") }}
+<em>{{rec.title}}</em>,
+{{rec.journal}},
+<strong>{{rec.volume}}</strong>
+({{rec.year}})
+{{rec.startpage}}-{{rec.endpage}}
+<b>
+Počet citácií:{{rec.cited_times}}
+</b>
+</li>
+# endif
+# endfor
+</ol>
+# endblock
+

@@ -1,0 +1,42 @@
+---
+# authors: ['Niederle, J.', 'Paseka, J.']
+# journal: Order
+# tags: [scopus, zautor, zpub]
+authors: ['Niederle, Josef', 'Paseka, Jan']
+journal: Order-a Journal on the Theory of Ordered Sets and Its Applications
+key: niederle2013musings
+tags: [wos, sci]
+---
+# authors: ['Foulis, D.J.', 'Pulmannová, S.']
+# tags: [scopus, dautor, zautor, zpub]
+authors: ['Foulis, David J.', 'Pulmannova, Sylvia']
+key: foulis2013dimension
+tags: [wos, sci]
+---
+# authors: ['Chajda, I.', 'Paseka, J.', 'Qiang, L.']
+# tags: [scopus, cc, zautor, zpub]
+authors: ['Chajda, Ivan', 'Paseka, Jan', 'Qiang, Lei']
+key: chajda2013onrealization
+tags: [wos, sci]
+---
+# authors: ['Chovanec, F.']
+# tags: [scopus, dautor, dpub]
+authors: ['Chovanec, Ferdinand']
+key: chovanec2013graphic
+tags: [wos, sci]
+---
+# authors: ['Foulis, D.J.', 'Pulmannová, S.']
+# tags: [scopus, dautor, zautor, zpub]
+authors: ['Foulis, David J.', 'Pulmannova, Sylvia']
+key: foulis2013hull
+tags: [wos, sci]
+---
+# authors: ['Dvurečenskij, A.']
+# tags: [scopus, dautor, zpub]
+authors: ['Dvurecenskij, Anatolij']
+key: dvurecenskij2013smearing
+tags: [wos, sci]
+---
+# tags: [sci, zautor, cc, zpub, wos, scopus]
+key: niederle2013homogeneous
+tags: [wos, sci]

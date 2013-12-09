@@ -310,6 +310,61 @@ type: article
 volume: 17
 year: 2013
 ---
+authors: ['Niederle, Josef', 'Paseka, Jan']
+cites: [jenca1999onsharp]
+doi: 10.2478/s12175-012-0073-2
+endpage: 1208
+issn: 0139-9918
+journal: Mathematica Slovaca
+key: niederle2012macneille
+month: DEC
+myown: false
+number: 6
+startpage: 1193
+tags: [wos, sci]
+title: 'MacNeille completion of centers and centers of MacNeille completions of lattice
+  effect algebras: Generic scheme behind'
+type: article
+unique_id: ISI:000312663200013
+volume: 62
+year: 2012
+---
+authors: ['Niederle, Josef', 'Paseka, Jan']
+cites: [jenca2001blocks, jenca2002quotients, jenca2010sharp, jenca2003orthocomplete]
+doi: 10.1007/s00012-012-0205-0
+endpage: 220
+issn: 0002-5240
+journal: Algebra Universalis
+key: niederle2012triple-1
+month: DEC
+myown: false
+number: 3-4
+startpage: 197
+tags: [wos, sci]
+title: Triple Representation Theorem for orthocomplete homogeneous effect algebras
+type: article
+unique_id: ISI:000315918500002
+volume: 68
+year: 2012
+---
+authors: ['Chajda, Ivan', 'Kuehr, Jan']
+cites: [jenca2002quotients]
+doi: 10.2478/s12175-012-0063-4
+endpage: 1062
+issn: 0139-9918
+journal: Mathematica Slovaca
+key: chajda2012ageneralization
+month: DEC
+myown: false
+number: 6
+startpage: 1045
+tags: [wos, sci]
+title: A generalization of effect algebras and ortholattices
+type: article
+unique_id: ISI:000312663200003
+volume: 62
+year: 2012
+---
 authors: ['Foulis, D.J.', 'Pulmannová, S.']
 cites: [jenca2000subcentral, jenca2002acantorbernstein]
 document_type: Article

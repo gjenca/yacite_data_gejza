@@ -1,5 +1,6 @@
 authors: ['Niederle, Josef', 'Paseka, Jan']
 book-group-author: IEEE
+book_group_author: IEEE
 booktitle: 2012 42nd Ieee International Symposium on Multiple-valued Logic (Ismvl)
 cites: [jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
 doi: 10.1109/ISMVL.2012.27
@@ -18,4 +19,5 @@ tags: [sci, zautor, zpub, wos, scopus, voc2012]
 title: Triple Representation Theorem for homogeneous effect algebras
 type: inproceedings
 unique-id: ISI:000309229100058
+unique_id: ISI:000309229100058
 year: 2012

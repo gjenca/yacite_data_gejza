@@ -1,5 +1,6 @@
 authors: ['Ji, W.']
-cites: [jenca1999onsharp, jenca2001blocks, jenca2003orthocomplete, jenca20100homogeneous,jenca2010sharp]
+cites: [jenca1999onsharp, jenca2001blocks, jenca2003orthocomplete, jenca20100homogeneous,
+  jenca2010sharp]
 document_type: Article
 doi: 10.1016/j.fss.2013.06.005
 eissn: 1872-6801
@@ -12,7 +13,7 @@ myown: false
 note: cited By (since 1996)0
 source: Scopus
 startpage: 113
-tags: [scopus, zpub, zautor, wos]
+tags: [voc2014, scopus, zpub, zautor, wos]
 title: Characterization of homogeneity in orthocomplete atomic effect algebras
 type: article
 unique_id: ISI:000329147600008

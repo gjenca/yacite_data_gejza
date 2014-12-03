@@ -11,26 +11,26 @@ cat << END
  <head>
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
   <title>
-   VOC 2013
+   VOC 2014
   </title>
  </head>
 <body>
 END
 fi
 yacite read pubcit | 
-	yacite filter 'year==2013 and myown' | yacite sort -k year > voc2013.myown.yaml
-yacite filter '"cc" in tags' < voc2013.myown.yaml | 
+	yacite filter 'year==2014 and myown' | yacite sort -k year > voc2014.myown.yaml
+yacite filter '"cc" in tags' < voc2014.myown.yaml | 
 	yacite render -e '{ title: "Karentované (Current Contents) časopisy zahraničné aj domáce" }' kvocka_moje.${SUFF}
-yacite filter '"scopus" in tags and "cc" not in tags' < voc2013.myown.yaml | 
+yacite filter '"scopus" in tags and "cc" not in tags' < voc2014.myown.yaml | 
 	yacite render -e '{ title: "Časopisy zahraničné aj domáce evidované v databáze SCOPUS" }' kvocka_moje.${SUFF}
 yacite read pubcit | 
-	yacite filter --notmyown 'year in [2012,2013] and "voc2012" not in tags' |
-	yacite exec 'is_old = (year == 2012 and "voc2012" not in tags)' |
-	yacite sort -k year > voc2013.yaml
-yacite filter --notmyown '("wos" in tags or "sci" in tags or "scopus" in tags) and not "dautor" in tags' > voc2013.sci.no.dautor.yaml < voc2013.yaml
-yacite filter --notmyown '("wos" in tags or "sci" in tags or "scopus" in tags) and "dautor" in tags' > voc2013.sci.dautor.yaml < voc2013.yaml
-yacite render -e '{ title: "Citácie podľa SCI, multidisciplinárne ISI, SCOPUS – len zahraničný autor" }' kvocka.${SUFF} < voc2013.sci.no.dautor.yaml|tee voc2013.sci.no.dautor.${SUFF}
-yacite render -e '{ title: "Citácie podľa SCI, multidisciplinárne ISI, SCOPUS – domáci autor" }' kvocka.${SUFF} < voc2013.sci.dautor.yaml | tee voc2013.sci.dautor.${SUFF}
+	yacite filter --notmyown 'year in [2013,2014] and "voc2013" not in tags' |
+	yacite exec 'is_old = (year == 2013 and "voc2013" not in tags)' |
+	yacite sort -k year > voc2014.yaml
+yacite filter --notmyown '("wos" in tags or "sci" in tags or "scopus" in tags) and not "dautor" in tags' > voc2014.sci.no.dautor.yaml < voc2014.yaml
+yacite filter --notmyown '("wos" in tags or "sci" in tags or "scopus" in tags) and "dautor" in tags' > voc2014.sci.dautor.yaml < voc2014.yaml
+yacite render -e '{ title: "Citácie podľa SCI, multidisciplinárne ISI, SCOPUS – len zahraničný autor" }' kvocka.${SUFF} < voc2014.sci.no.dautor.yaml|tee voc2014.sci.no.dautor.${SUFF}
+yacite render -e '{ title: "Citácie podľa SCI, multidisciplinárne ISI, SCOPUS – domáci autor" }' kvocka.${SUFF} < voc2014.sci.dautor.yaml | tee voc2014.sci.dautor.${SUFF}
 if test "$SUFF" == html; then
 cat <<END
 </body>

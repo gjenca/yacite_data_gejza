@@ -333,6 +333,7 @@ type: article
 volume: 17
 year: 2013
 ---
+arxiv: 1112.5782
 authors: ['Jenča, Gejza', 'Sarkoci, Peter']
 endpage: 38
 grants: VEGA G-2/0059/12 VEGA G-1/0297/11 APVV-0073-10 APVV-0178-11
@@ -342,10 +343,32 @@ key: jenca2014linear
 myown: true
 publisher: Academic Press
 startpage: 28
-tags: [scopus, wos, sci, cc]
+tags: [cc, scopus, sci, voc2014, wos]
 title: Linear extensions and order-preserving poset partitions
 type: article
 volume: 122
+year: 2014
+---
+authors: ['Xie, Y.', 'Li, Y.', 'Yang, A.']
+cites: [jenca2004boolean, jenca1999onsharp]
+document_type: Article
+doi: 10.2478/s12175-014-0258-y
+endpage: 1074
+is_old: false
+issn: 0139-9918
+journal: Mathematica Slovaca
+key: xie2014thepasting
+month: OCT 2014
+myown: false
+note: cited By 1
+number: 5
+source: Scopus
+startpage: 1051
+tags: [scopus, zautor, wos, dpub]
+title: The pasting constructions for effect algebras
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919462836&partnerID=40&md5=dfeda72028b1c0ff928a0e5dcd1b60d7
+volume: 64
 year: 2014
 ---
 authors: ['Dvurečenskij, Anatolij', 'Kuková, Maria']
@@ -359,8 +382,9 @@ journal: Information Sciences
 key: dvurecenskij2014observables
 month: MAR 20
 myown: false
+note: 'Times Cited: 1'
 startpage: 215
-tags: [wos, dautor, zautor, zpub]
+tags: [voc2014, zpub, zautor, wos, dautor]
 title: Observables on quantum structures
 type: article
 unique_id: ISI:000331478800013
@@ -383,7 +407,7 @@ myown: false
 note: cited By (since 1996)0
 source: Scopus
 startpage: 113
-tags: [scopus, zpub, zautor, wos]
+tags: [voc2014, scopus, zpub, zautor, wos]
 title: Characterization of homogeneity in orthocomplete atomic effect algebras
 type: article
 unique_id: ISI:000329147600008
@@ -407,7 +431,7 @@ note: cited By (since 1996)0
 number: 6
 source: Scopus
 startpage: 1033
-tags: [scopus, zpub, zautor, wos]
+tags: [voc2014, scopus, zpub, zautor, wos]
 title: On (finite) distributive lattices with antitone involutions
 type: article
 unique_id: ISI:000336270600001
@@ -431,7 +455,7 @@ note: cited By (since 1996)0
 number: 8
 source: Scopus
 startpage: 2855
-tags: [scopus, zpub, wos, dautor]
+tags: [scopus, zpub, voc2014, wos, dautor]
 title: Representable Effect Algebras and Observables
 type: article
 unique_id: ISI:000339817300035
@@ -451,7 +475,7 @@ note: cited By (since 1996)0
 number: 1
 source: Scopus
 startpage: 1
-tags: [scopus, dautor, zautor, zpub]
+tags: [scopus, zpub, zautor, voc2014, dautor]
 title: The center of a generalized effect algebra
 type: article
 url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897077359&partnerID=40&md5=b60d46773eb3169067ffe092bfc6c271
@@ -474,7 +498,7 @@ note: cited By (since 1996)0
 number: 10
 source: Scopus
 startpage: 1009
-tags: [scopus, zpub, zautor, wos]
+tags: [voc2014, scopus, zpub, zautor, wos]
 title: Quantum Measures on Finite Effect Algebras with the Riesz Decomposition Properties
 type: article
 unique_id: ISI:000342150700001
@@ -486,13 +510,28 @@ article_number: 542846
 authors: ['Xin, Xiao Long', 'Hua, Xiu Juan', 'Zhu, Xi']
 cites: [jenca2001ideals]
 doi: 10.1155/2014/542846
+endpage: 542846
 is_old: false
 issn: 1537-744X
 journal: Scientific World Journal
 key: xin2014roughness
+month: 2014
 myown: false
-tags: [wos, zautor, zpub]
+note: 'Times Cited: 0'
+startpage: 542846
+tags: [voc2014, zpub, zautor, wos]
 title: Roughness in Lattice Ordered Effect Algebras
 type: article
 unique_id: ISI:000343608800001
 year: 2014
+---
+arxiv: 1404.6263
+authors: ['Jenča, Gejza']
+grants: G-1/0297/11,G-2/0059/12,APVV-0073-10,APVV-0178-11
+is_old: false
+journal: to appear in Order
+key: jenca2015effect
+myown: true
+title: Effect algebras are the Eilenberg-Moore category for the Kalmbach monad
+type: article
+year: 2015

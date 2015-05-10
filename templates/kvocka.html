@@ -30,10 +30,12 @@
     <strong>{{rec_cited.volume}}</strong>
     ({{rec_cited.year}})
     {{rec_cited.startpage}}-{{rec_cited.endpage}}
-    # if rec_cited.is_old:
-    	(Nenahlásené vo VOC 2012)
-    # endif
     </li>
+    # for tag in rec_cited.tags:
+    # if tag in ["scopus","wos"]:
+    <span class="tag">[{{tag}}]</span>
+    # endif 
+    # endfor
   # endfor
   </ol>
   <hr>

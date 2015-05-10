@@ -10,6 +10,11 @@ cat << END
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sk" lang="sk">
  <head>
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  <style>
+  .tag {
+  	color:blue;
+  }
+  </style>
   <title>
    VOC 2014
   </title>

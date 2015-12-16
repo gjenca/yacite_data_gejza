@@ -29,183 +29,173 @@ type: article
 volume: 17
 year: 2013
 ---
-authors: ['Foulis, D.J.', 'Pulmannová, S.']
-cites: [jenca2000subcentral, jenca2002acantorbernstein]
+authors: ['Botur, M.', 'Kühr, J.']
+cites: [jenca2013congruences]
 document_type: Article
-doi: 10.1007/s00012-012-0214-z
-endpage: 81
-issn: 0002-5240
-journal: Algebra Universalis
-key: foulis2013hull
-month: FEB
-myown: false
-note: cited By (since 1996)1
-number: 1
-source: Scopus
-startpage: 45
-tags: [zautor, zpub, wos, dautor, scopus, voc2013]
-title: Hull determination and type decomposition for a generalized effect algebra
-type: article
-unique_id: ISI:000318351200004
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872654084&partnerID=40&md5=e0e8dfdc740b9e82aff20defb490df5c
-volume: 69
-year: 2013
----
-authors: ['Foulis, D.J.', 'Pulmannová, S.']
-cites: [jenca2000subcentral, jenca2002acantorbernstein]
-document_type: Article
-doi: 10.1007/s00012-013-0237-0
-eissn: 1420-8911
-endpage: 386
-issn: 0002-5240
-journal: Algebra Universalis
-key: foulis2013dimension
-month: JUN
-myown: false
-note: cited By (since 1996)0
-number: 4
-source: Scopus
-startpage: 357
-tags: [zautor, zpub, wos, dautor, scopus, voc2013]
-title: Dimension theory for generalized effect algebras
-type: article
-unique_id: ISI:000319607900005
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878475357&partnerID=40&md5=0f3067f36247422b3e114509a72b6ef9
-volume: 69
-year: 2013
----
-authors: ['Niederle, Josef', 'Paseka, Jan']
-cites: [jenca1999onsharp, jenca2001blocks, jenca2003orthocomplete, jenca2010sharp]
-document_type: Article
-doi: 10.1016/j.fss.2012.07.009
-endpage: 101
-issn: 0165-0114
-journal: Fuzzy Sets and Systems
-key: niederle2013homogeneous
-month: JAN 1
-myown: false
-note: cited By (since 1996)1
-source: Scopus
-startpage: 89
-tags: [zautor, cc, zpub, wos, scopus, voc2013]
-title: Homogeneous orthocomplete effect algebras are covered by MV-algebras
-type: article
-unique-id: ISI:000310662400007
-unique_id: ISI:000310662400007
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84867100903&partnerID=40&md5=51838d7671cdd94b215a43ef6e662d5c
-volume: 210
-year: 2013
----
-authors: ['Niederle, J.', 'Paseka, J.']
-cites: [jenca2001blocks, jenca2010sharp]
-document_type: Article
-doi: 10.1007/s11083-012-9259-z
-endpage: 539
-issn: 0167-8094
-journal: Order
-key: niederle2013musings
-month: JUL
-myown: false
-note: cited By (since 1996)0
-number: 2
-source: Scopus
-startpage: 527
-tags: [scopus, zpub, zautor, wos, voc2013]
-title: Musings about the Triple Representation Theorem for Effect Algebras
-type: article
-unique_id: ISI:000320119900011
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878768906&partnerID=40&md5=94c023cf5d9f325f8f024ad38c109919
-volume: 30
-year: 2013
----
-authors: ['Chajda, I.', 'Paseka, J.', 'Qiang, L.']
-cites: [jenca2011coexistence]
-document_type: Article
-doi: 10.1007/s10773-012-1426-x
-endpage: 2037
-issn: 0020-7748
-journal: International Journal of Theoretical Physics
-key: chajda2013onrealization
+doi: 10.1007/s00500-013-1205-5
+eissn: 1433-7479
+endpage: 1040
+issn: 1432-7643
+journal: Soft Computing
+key: botur2014onfinite
 month: JUN
 myown: false
 note: cited By (since 1996)0
 number: 6
 source: Scopus
-startpage: 2028
-tags: [zautor, cc, zpub, wos, scopus, voc2013]
-title: On Realization of Partially Ordered Abelian Groups
+startpage: 1033
+tags: [voc2014, scopus, zpub, zautor, wos]
+title: On (finite) distributive lattices with antitone involutions
 type: article
-unique_id: ISI:000318373700031
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877114781&partnerID=40&md5=ada6c45ad88e66e2239d9f2df02f1304
-volume: 52
-year: 2013
+unique_id: ISI:000336270600001
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901005070&partnerID=40&md5=c3fa6a26d080eaf2e5c54777f5a937ea
+volume: 18
+year: 2014
 ---
-authors: ['Chovanec, F.', 'Jurečková, M.']
-cites: [jenca2007theblock, jenca1999onsharp]
-document_type: Conference Paper
-doi: 10.1016/j.fss.2013.06.018
-eissn: 1872-6801
-endpage: 61
-issn: 0165-0114
-journal: Fuzzy Sets and Systems
-key: chovanec2013fractal
-month: DEC 1
+authors: ['Dvurečenskij, Anatolij', 'Kuková, Maria']
+cites: [jenca1999onsharp]
+doi: 10.1016/j.ins.2013.09.014
+eissn: 1872-6291
+endpage: 222
+issn: 0020-0255
+journal: Information Sciences
+key: dvurecenskij2014observables
+month: MAR 20
 myown: false
-note: cited By (since 1996)0
-number: SI
-source: Scopus
-startpage: 46
-tags: [cc, scopus, voc2013, zpub, dautor]
-title: Fractal properties of MV-algebra pastings
+note: 'Times Cited: 1'
+startpage: 215
+tags: [voc2014, zpub, zautor, wos, dautor]
+title: Observables on quantum structures
 type: article
-unique_id: ISI:000327170400005
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84886725994&partnerID=40&md5=2707170e1e760238d391d392f912416e
-volume: 232
-year: 2013
+unique_id: ISI:000331478800013
+volume: 262
+year: 2014
 ---
-authors: ['Dvurečenskij, A.']
-cites: [jenca2001blocks, jenca1999onsharp]
+authors: ['Yang, A.', 'Xie, Y.']
+cites: [jenca2003orthocomplete]
 document_type: Article
-doi: 10.1007/s10701-012-9689-x
-endpage: 224
+doi: 10.1007/s10701-014-9826-9
+eissn: 1572-9516
+endpage: 1037
 issn: 0015-9018
 journal: Foundations of Physics
-key: dvurecenskij2013smearing
-month: FEB
+key: yang2014quantum
+month: OCT
 myown: false
 note: cited By (since 1996)0
-number: 2
+number: 10
 source: Scopus
-startpage: 210
-tags: [scopus, voc2013, zpub, wos, dautor]
-title: Smearing of Observables and Spectral Measures on Quantum Structures
+startpage: 1009
+tags: [voc2014, scopus, zpub, zautor, wos]
+title: Quantum Measures on Finite Effect Algebras with the Riesz Decomposition Properties
 type: article
-unique_id: ISI:000313802600002
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84872664439&partnerID=40&md5=3eca3393decfc79d0f9baf477b131294
-volume: 43
-year: 2013
+unique_id: ISI:000342150700001
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84908101766&partnerID=40&md5=f75d0364a5ca1f0e4dcd54a8d65983d6
+volume: 44
+year: 2014
 ---
-authors: ['Chovanec, F.']
-cites: [jenca2001blocks, jenca2007theblock]
+authors: ['Xie, Y.', 'Li, Y.', 'Yang, A.']
+cites: [jenca2004boolean, jenca1999onsharp]
 document_type: Article
-doi: 10.2478/s12175-013-0102-9
-endpage: 380
+doi: 10.2478/s12175-014-0258-y
+endpage: 1074
 issn: 0139-9918
 journal: Mathematica Slovaca
-key: chovanec2013graphic
-month: APR
+key: xie2014thepasting
+month: OCT 2014
 myown: false
-note: cited By (since 1996)1
-number: 2
+note: cited By 1
+number: 5
 source: Scopus
-startpage: 349
-tags: [scopus, voc2013, dpub, wos, dautor]
-title: Graphic representation of MV-algebra pastings
+startpage: 1051
+tags: [scopus, zautor, wos, dpub]
+title: The pasting constructions for effect algebras
 type: article
-unique_id: ISI:000316870000011
-url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84875536058&partnerID=40&md5=98fa34f45773b8c86ae77f1d55435653
-volume: 63
-year: 2013
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919462836&partnerID=40&md5=dfeda72028b1c0ff928a0e5dcd1b60d7
+volume: 64
+year: 2014
+---
+authors: ['Dvurečenskij, A.']
+cites: [jenca2001blocks]
+document_type: Article
+doi: 10.1007/s10773-014-2083-z
+eissn: 1572-9575
+endpage: 2866
+issn: 0020-7748
+journal: International Journal of Theoretical Physics
+key: dvurecenskij2014representable
+month: AUG
+myown: false
+note: cited By (since 1996)0
+number: 8
+source: Scopus
+startpage: 2855
+tags: [scopus, zpub, voc2014, wos, dautor]
+title: Representable Effect Algebras and Observables
+type: article
+unique_id: ISI:000339817300035
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84904552677&partnerID=40&md5=e1a03c6ead6de24285d2dce35509abff
+volume: 53
+year: 2014
+---
+authors: ['Foulis, D.J.', 'Pulmannová, S.']
+cites: [jenca2000subcentral, jenca2002acantorbernstein]
+document_type: Article
+endpage: 21
+journal: Scire
+key: foulis2014thecenter
+myown: false
+note: cited By (since 1996)0
+number: 1
+source: Scopus
+startpage: 1
+tags: [scopus, zpub, zautor, voc2014, dautor]
+title: The center of a generalized effect algebra
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897077359&partnerID=40&md5=b60d46773eb3169067ffe092bfc6c271
+volume: 47
+year: 2014
+---
+authors: ['Ji, W.']
+cites: [jenca1999onsharp, jenca2001blocks, jenca2003orthocomplete, jenca20100homogeneous,
+  jenca2010sharp]
+document_type: Article
+doi: 10.1016/j.fss.2013.06.005
+eissn: 1872-6801
+endpage: 121
+issn: 0165-0114
+journal: Fuzzy Sets and Systems
+key: ji2014characterization
+month: FEB 1
+myown: false
+note: cited By (since 1996)0
+source: Scopus
+startpage: 113
+tags: [voc2014, scopus, zpub, zautor, wos]
+title: Characterization of homogeneity in orthocomplete atomic effect algebras
+type: article
+unique_id: ISI:000329147600008
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84888645148&partnerID=40&md5=314b856e05a28af4cee930527b0663e7
+volume: 236
+year: 2014
+---
+article_number: 542846
+authors: ['Xin, Xiao Long', 'Hua, Xiu Juan', 'Zhu, Xi']
+cites: [jenca2001ideals]
+doi: 10.1155/2014/542846
+endpage: 542846
+issn: 1537-744X
+journal: Scientific World Journal
+key: xin2014roughness
+month: 2014
+myown: false
+note: 'Times Cited: 0'
+startpage: 542846
+tags: [voc2014, zpub, zautor, wos]
+title: Roughness in Lattice Ordered Effect Algebras
+type: article
+unique_id: ISI:000343608800001
+year: 2014
 ---
 arxiv: 1112.5782
 authors: ['Jenča, Gejza', 'Sarkoci, Peter']
@@ -216,18 +206,104 @@ key: jenca2014linear
 myown: true
 publisher: Academic Press
 startpage: 28
-tags: [cc, scopus, sci, voc2014, wos]
+tags: [cc, scopus, zpub, voc2014, wos]
 title: Linear extensions and order-preserving poset partitions
 type: article
 volume: 122
 year: 2014
 ---
+authors: ['Mesiar, Radko', 'Stupňanová, Andrea']
+cites: [jenca2001blocks, jenca1999onsharp, jenca2003orthocomplete]
+doi: 10.1060/j.fss.2014.07.012
+endpage: 123
+issn: 0165-0114
+journal: Fuzzy Sets and Systems
+key: mesiara2015open
+month: FEB 15 2015
+myown: false
+note: 'Times Cited: 0'
+startpage: 112
+tags: [wos, dautor, zpub]
+title: Open problems from the 12th International Conference on Fuzzy Set Theory and
+  Its Applications
+type: article
+volume: 261
+year: 2015
+---
+authors: ['Pulmannová, S.', 'Vinceková, E.']
+cites: [jenca2004boolean, jenca2007arepresentation]
+document_type: Article
+doi: 10.1016/j.fss.2014.04.002
+endpage: 76
+issn: 0165-0114
+journal: Fuzzy Sets and Systems
+key: pulmannova2015mvpairs
+month: FEB 1 2015
+myown: false
+note: cited By 0
+source: Scopus
+startpage: 62
+tags: [scopus, zpub, wos, dautor]
+title: MV-pairs and state operators
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919463236&partnerID=40&md5=d6f93e92c83282b0cc6520479581d0be
+volume: 260
+year: 2015
+---
+authors: ['Xie, Y.', 'Li, Y.', 'Yang, A.']
+cites: [jenca2004boolean, jenca1999onsharp]
+document_type: Article
+doi: 10.1016/j.fss.2014.03.015
+endpage: 96
+issn: 0165-0114
+journal: Fuzzy Sets and Systems
+key: xie2015pasting
+month: FEB 1 2015
+myown: false
+note: cited By 0
+source: Scopus
+startpage: 77
+tags: [scopus, zpub, zautor, wos]
+title: Pasting of lattice-ordered effect algebras
+type: article
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919463087&partnerID=40&md5=5d4d0cef368def3136376d8afb17e1e5
+volume: 260
+year: 2015
+---
 arxiv: 1404.6263
 authors: ['Jenča, Gejza']
+doi: 10.1007/s11083-014-9344-6
+endpage: 448
 grants: G-1/0297/11,G-2/0059/12,APVV-0073-10,APVV-0178-11
-journal: to appear in Order
+issn: 0167-8094
+journal: Order
 key: jenca2015effect
+keywords: Effect algebra; Kalmbach extension; Orthomodular poset; Monad
+language: English
 myown: true
-title: Effect algebras are the Eilenberg-Moore category for the Kalmbach monad
+number: 3
+publisher: Springer Netherlands
+startpage: 439
+tags: [wos, zpub, scopus]
+title: Effect Algebras are the Eilenberg-Moore Category for the Kalmbach Monad
 type: article
+url: http://dx.doi.org/10.1007/s11083-014-9344-6
+volume: 32
 year: 2015
+---
+authors: ['Jenča, Gejza']
+doi: 10.1007/s00500-015-1755-9
+grants: VEGA G-2/0059/12, APVV-0073-10, APVV-0178-11
+issn: 1432-7643
+journal: Soft Computing (to appear)
+key: jenca2016anote
+keywords: Effect algebra; Generalized effect algebra; Unitization; Primary 03G12;
+  Secondary 06F20; 81P10
+language: English
+myown: true
+publisher: Springer Berlin Heidelberg
+tags: [zpub, wos, cc, scopus]
+title: A note on unitizations of generalized effect algebras
+type: article
+url: http://dx.doi.org/10.1007/s00500-015-1755-9
+year: 2016

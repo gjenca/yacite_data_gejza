@@ -1,15 +1,38 @@
 ---
-arxiv: 1112.5782
-authors: ['Jenča, Gejza', 'Sarkoci, Peter']
-endpage: 38
-grants: VEGA G-2/0059/12 VEGA G-1/0297/11 APVV-0073-10 APVV-0178-11
-journal: Journal of Combinatorial Theory, Series A
-key: jenca2014linear
+arxiv: 1404.6263
+authors: ['Jenča, Gejza']
+doi: 10.1007/s11083-014-9344-6
+endpage: 448
+grants: G-1/0297/11,G-2/0059/12,APVV-0073-10,APVV-0178-11
+issn: 0167-8094
+journal: Order
+key: jenca2015effect
+keywords: Effect algebra; Kalmbach extension; Orthomodular poset; Monad
+language: English
 myown: true
-publisher: Academic Press
-startpage: 28
-tags: [cc, scopus, sci, voc2014, wos]
-title: Linear extensions and order-preserving poset partitions
+number: 3
+publisher: Springer Netherlands
+startpage: 439
+tags: [wos, zpub, scopus]
+title: Effect Algebras are the Eilenberg-Moore Category for the Kalmbach Monad
 type: article
-volume: 122
-year: 2014
+url: http://dx.doi.org/10.1007/s11083-014-9344-6
+volume: 32
+year: 2015
+---
+authors: ['Jenča, Gejza']
+doi: 10.1007/s00500-015-1755-9
+grants: VEGA G-2/0059/12, APVV-0073-10, APVV-0178-11
+issn: 1432-7643
+journal: Soft Computing (to appear)
+key: jenca2016anote
+keywords: Effect algebra; Generalized effect algebra; Unitization; Primary 03G12;
+  Secondary 06F20; 81P10
+language: English
+myown: true
+publisher: Springer Berlin Heidelberg
+tags: [zpub, wos, cc, scopus]
+title: A note on unitizations of generalized effect algebras
+type: article
+url: http://dx.doi.org/10.1007/s00500-015-1755-9
+year: 2016

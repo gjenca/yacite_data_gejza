@@ -1,0 +1,5 @@
+# for rec in records:
+# if rec.myown:
+{{ rec.citedby | length }}
+# endif
+# endfor

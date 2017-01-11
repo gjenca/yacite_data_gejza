@@ -12,9 +12,9 @@ myown: true
 number: 3
 publisher: Springer Netherlands
 startpage: 439
+tags: [scopus, zpub, voc2015, wos]
 title: Effect Algebras are the Eilenberg-Moore Category for the Kalmbach Monad
 type: article
 url: http://dx.doi.org/10.1007/s11083-014-9344-6
-tags: [wos, zpub, scopus]
 volume: 32
 year: 2015

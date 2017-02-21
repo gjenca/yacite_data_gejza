@@ -29,8 +29,8 @@
     <strong>{{rec_cited.volume}}</strong>
     ({{rec_cited.year}})
     {{rec_cited.startpage}}-{{rec_cited.endpage}}
-    # if "as-preprint" in rec_cited.tags:
-    	(cited as preprint)
+    # if "as-preprint" in citation_tags[(rec_cited.key,rec.key)]:
+      (cited as preprint)
     # endif
     </li>
   # endfor

@@ -1,10 +1,9 @@
-<h3>
-{{ extra.title }}
-</h3>
+# extends "base.html"
+# block body
 # for rec in records:
 # if rec.myown
   # if rec.citedby:
-  <h4>Článok:</h4>
+  <h3>Paper:</h3>
   <p>
   {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
   {{rec.title}},   
@@ -38,7 +37,7 @@
     {{rec.kategoria}}
   </p>
   <h3>
-  Citovaný v ({{ rec.citedby | length}}):
+  Cited in ({{ rec.citedby | length}}):
   </h3>
   <ol>
   # for rec_cited in rec.citedby:
@@ -92,4 +91,5 @@
   #endif
   #endif
 # endfor
+# endblock
 

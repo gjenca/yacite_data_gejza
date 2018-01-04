@@ -1,0 +1,45 @@
+<h3>
+{{ extra.title }}
+</h3>
+# for rec in records:
+# if rec.myown
+  # if rec.citedby:
+  <h4>Článok:</h4>
+  <p>
+  {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+  <em>{{rec.title}}</em>,
+  {{rec.journal}},
+  <strong>{{rec.volume}}</strong>
+  ({{rec.year}})
+  {{rec.startpage}}-{{rec.endpage}}
+  </p>
+  <h4>
+  Citovaný v (počet {{ rec.citedby | length }}):
+  </h4>
+  <ol>
+  # for rec_cited in rec.citedby:
+    <li>
+    {{  rec_cited.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
+    <em>{{rec_cited.title}}</em>,
+    # if rec_cited.journal:
+        {{rec_cited.journal}},
+    # endif
+    # if rec_cited.series:
+        {{rec_cited.series}},
+    # endif
+    <strong>{{rec_cited.volume}}</strong>
+    ({{rec_cited.year}})
+    {{rec_cited.startpage}}-{{rec_cited.endpage}}
+    </li>
+    # for tag in rec_cited.tags:
+    # if tag in ["scopus","wos"]:
+    <span class="tag">[{{tag}}]</span>
+    # endif 
+    # endfor
+  # endfor
+  </ol>
+  <hr>
+  #endif
+# endif
+# endfor
+

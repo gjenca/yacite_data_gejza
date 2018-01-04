@@ -1,8 +1,8 @@
 #!/bin/bash
 SUFF=html
-YEAR='2016'
+YEAR='2017'
 let PASTYEAR=YEAR-1
-let NEXTYEAR=YEAR-1
+let NEXTYEAR=YEAR+1
 
 if test -n "$1" ; then
 	SUFF=$1

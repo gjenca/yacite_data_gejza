@@ -11,6 +11,9 @@
   <strong>{{rec.volume}}</strong>
   ({{rec.year}})
   {{rec.startpage}}-{{rec.endpage}}
+# if rec.doi:
+  <a href="http://doi.org/{{rec.doi}}">doi:{{rec.doi}}</a>
+# endif
   </li>
 # endfor
 </ol>

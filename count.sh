@@ -5,6 +5,5 @@ then
 else
    FILT="$1"
 fi
-yacite read pubcit | yacite filter "$FILT" | yacite filter 'not myown' | yacite exec -n 'print cites' |
-	tr ',' '\n' | wc -l
+yacite read pubcit | yacite filter "$FILT" | yacite exec -n 'print 1' | wc -l
 

@@ -1,8 +1,21 @@
 # extends "base.html"
 # block body
+<h1> Zoznam publikácií a citácií </h1>
+<h2>Vysvetlivky</h2>
+<ul>
+<li>[cc] Current contents</li>
+<li>[wos] Web of Science</li>
+<li>[scopus] Scopus</li>
+<li>[dpub] Domáca publikácia </li>
+<li>[zpub] Zahraničná publikácia </li>
+<li>[dautor] Jeden z autorov je domáci </li>
+<li>[zautor] Jeden z autorov je zahraničný </li>
+<li>[vocnnnn] Bolo nahlásené v rámci VOČ v roku nnn</li>
+</ul>
+
 # for rec in records:
 # if rec.myown
-  # if rec.citedby:
+  # if 1:
   <h3>Paper:</h3>
   <p>
   {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
@@ -35,6 +48,10 @@
            arxiv:{{rec.preprint}},
     # endif      
     {{rec.kategoria}}
+    # for tag in rec.tags|sort:
+    [{{tag}}]
+    # endfor
+
   </p>
   <h3>
   Cited in ({{ rec.citedby | length}}):
@@ -58,7 +75,7 @@
         # endif
        {{rec_cited.publisher}},
        {{rec_cited.year}}
-    # elif rec_cited.type=='inproceedings' or rec_cited.type=='incollection':
+    # elif rec_cited.type=='inproceedings' or rec_cited.type=='incollection' or rec_cited.type=='conference':
        {{rec_cited.title}},
        In: <em>{{rec_cited.booktitle}}</em>,
        # if rec_cited.series:
@@ -77,7 +94,7 @@
     # elif rec_cited.article_number
            art. nr. {{rec_cited.article_number}},
     # endif
-    # for tag in rec_cited.tags:
+    # for tag in rec_cited.tags|sort:
     [{{tag}}]
     # endfor
     # if "as-preprint" in citation_tags[(rec_cited.key,rec.key)]:

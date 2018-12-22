@@ -170,21 +170,3 @@ unique_id: ISI:000427500400004
 url: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037601910&doi=10.1016%2fj.fss.2017.12.005&partnerID=40&md5=0a93e66ce738b623d542593e85107d0b
 volume: 339
 year: 2018
----
-authors: ['Jenča, Gejza']
-doi: 10.1007/s11083-017-9447-y
-endpage: 540
-grants: VEGA 2/0069/16, VEGA 1/0420/15,  APVV-14-0013, APVV-16-0073
-issn: 1572-9273
-journal: Order
-key: jenca2018effect
-month: Nov
-myown: true
-number: 3
-startpage: 525
-tags: [wos, scopus, zpub]
-title: Effect Algebras as Presheaves on Finite Boolean Algebras
-type: article
-url: https://doi.org/10.1007/s11083-017-9447-y
-volume: 35
-year: 2018

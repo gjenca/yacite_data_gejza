@@ -1,6 +1,6 @@
 #!/bin/bash
 SUFF=html
-YEAR='2017'
+YEAR='2018'
 let PASTYEAR=YEAR-1
 let NEXTYEAR=YEAR+1
 

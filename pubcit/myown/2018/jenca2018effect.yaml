@@ -1,7 +1,7 @@
 authors: ['Jenča, Gejza']
-grants: VEGA 2/0069/16, VEGA 1/0420/15,  APVV-14-0013, APVV-16-0073
 doi: 10.1007/s11083-017-9447-y
 endpage: 540
+grants: VEGA 2/0069/16, VEGA 1/0420/15,  APVV-14-0013, APVV-16-0073
 issn: 1572-9273
 journal: Order
 key: jenca2018effect
@@ -9,7 +9,7 @@ month: Nov
 myown: true
 number: 3
 startpage: 525
-tags: [wos, scopus, zpub]
+tags: [scopus, voc2018, zpub, wos]
 title: Effect Algebras as Presheaves on Finite Boolean Algebras
 type: article
 url: https://doi.org/10.1007/s11083-017-9447-y

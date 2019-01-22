@@ -15,7 +15,7 @@
 
 # for rec in records:
 # if rec.myown
-  # if 1:
+  # if rec.citedby:
   <h3>Paper:</h3>
   <p>
   {{  rec.authors|authorsformat("{f. }{vv}{ll{ }}{, jj}")|join(", ") }}:
@@ -95,7 +95,9 @@
            art. nr. {{rec_cited.article_number}},
     # endif
     # for tag in rec_cited.tags|sort:
+    # if rec.purge_tags and tag not in rec.purge_tags
     [{{tag}}]
+    # endif
     # endfor
     # if "as-preprint" in citation_tags[(rec_cited.key,rec.key)]:
       (cites preprint)

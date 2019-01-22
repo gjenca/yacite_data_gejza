@@ -6,6 +6,7 @@ key: jenca1999onsharp
 myown: true
 startpage: 24
 tags: [zpub]
+purge_tags: [scopus]
 title: On sharp elements in lattice ordered effect algebras
 type: article
 volume: 80

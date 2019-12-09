@@ -95,7 +95,7 @@
            art. nr. {{rec_cited.article_number}},
     # endif
     # for tag in rec_cited.tags|sort:
-    # if rec.purge_tags and tag not in rec.purge_tags
+    # if rec.purge_tags or tag not in rec.purge_tags
     [{{tag}}]
     # endif
     # endfor

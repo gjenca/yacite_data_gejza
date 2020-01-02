@@ -8,13 +8,14 @@ cat << END
  <head>
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
   <title>
-   $GRANT za rok $YEAR
+   $GRANT roky $YEAR--súčasnosť
   </title>
  </head>
 <body>
 END
+
 yacite read pubcit | 
-	yacite filter 'year>='"$YEAR"' and myown and "'$GRANT'" in grants' | yacite sort -k year > grant.myown.yaml
+	yacite filter 'year>='$YEAR' and myown and "'$GRANT'" in grants' | yacite sort -k year > grant.myown.yaml
 	yacite render -e '{title: Publikované články}' kvocka_moje.html < grant.myown.yaml
 yacite read pubcit | 
 	yacite filter --notmyown 'year >= '"$YEAR" | 

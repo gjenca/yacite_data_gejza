@@ -1,7 +1,9 @@
+arxiv: 1703.03728
 authors: ['Jenčová, A.', 'Jenča, G.']
 document_type: Article
 doi: 10.1007/s10773-017-3304-z
 endpage: 3769
+grants: VEGA 2/0069/16, 1/0420/15, APVV-14-0013
 journal: International Journal of Theoretical Physics
 key: jencova2017onmonoids
 myown: true
@@ -11,7 +13,6 @@ source: Scopus
 startpage: 3757
 tags: [cc, scopus, zpub, voc2017, wos]
 title: On Monoids in the Category of Sets and Relations
-grants: VEGA 2/0069/16, 1/0420/15, APVV-14-0013
 type: article
 volume: 56
 year: 2017
